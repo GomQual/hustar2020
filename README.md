@@ -1,1 +1,2 @@
-# hustar2020
+# HuStar2020
+## Modeling & Simulation Resource

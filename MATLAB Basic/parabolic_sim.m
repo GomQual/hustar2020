@@ -48,7 +48,7 @@ tic
 for n = 1:length(t)
     while toc < t(n)
     end
-    title(['Simulation Time: ' sprintf('%.2f', toc)])
+    title(['Simulation Time: ' sprintf('%.2f', t(n))])
     % update data of plot
     ball.XData = x(n);
     ball.YData = y(n);
